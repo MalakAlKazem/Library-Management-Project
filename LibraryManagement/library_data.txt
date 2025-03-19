@@ -1,0 +1,22 @@
+[Books]
+1,The Hobbit,J.R.R. Tolkien,1937
+2,Dune,Frank Herbert,1965
+3,1984,George Orwell,1949
+4,Brave New World,Aldous Huxley,1932
+5,Design Patterns,gang of 4,1994
+6,mlml,fhfh,2021
+[Users]
+1,Alice,pass123
+2,Bob,pass456
+3,malak,11111
+4,ali,122
+[Genres]
+1,Fantasy
+2,Sci-Fi
+3,Dystopian
+[BookGenres]
+1,1
+2,2
+3,3
+3,2
+4,3
